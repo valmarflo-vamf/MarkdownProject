@@ -4,6 +4,7 @@ This project is a practice exercise to learn Markdown and Git. See the [Git Docu
 
 ## Table of Contents
 - [Introduction](#introduction)
+![Project Logo](Images/logo.jpg)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
