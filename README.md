@@ -1,6 +1,7 @@
-# Markdown and Git Homework.
+# Markdown and Git Homework
 
-This project is a hands-on exercise to practice **Markdown** and **Git**. It covers creating, managing commits and branches, and collaborating through GitHub with issues and pull requests.
+This project is a practice exercise to learn Markdown and Git. See the [Git Documentation](https://git-scm.com/doc) for more information.
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
