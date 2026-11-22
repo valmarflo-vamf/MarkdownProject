@@ -1,0 +1,134 @@
+commit 717105309445fde40ff1caeee87414d77b9f755f
+Merge: 7554594 dedeff0
+Author: Valeria <valmarflo@iespoblenou.org>
+Date:   Mon Nov 23 00:11:51 2026 +0100
+
+    Merge pull request #2 from valmarflo-vamf/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit dedeff0e3b1da99417613ca4dc147e9bc85e9ca7
+Author: Valeria Márquez <valmarflo@iespoblenou.org>
+Date:   Sun Nov 22 23:52:51 2026 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+commit 7554594487802a2ac9dde181f6ae5933c40a6e3e
+Author: Valeria Márquez <valmarflo@iespoblenou.org>
+Date:   Sun Nov 22 23:10:41 2026 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit dd28e4a0d02bedcbd17bb35a1c3ea3ab33990817
+Author: Valeria Márquez <valmarflo@iespoblenou.org>
+Date:   Sun Nov 22 23:06:52 2026 +0100
+
+    Update Introduction of README.md
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 64063355ddecaebb989ccec540eb2b3ae0440b51
+Merge: 4a4807a c54e0fc
+Author: Valeria Márquez <valmarflo@iespoblenou.org>
+Date:   Sun Nov 22 22:55:01 2026 +0100
+
+    Merge add-license branch into main
+
+commit c54e0fc3232371d521cea51ea10e8997192ce90b
+Author: Valeria Márquez <valmarflo@iespoblenou.org>
+Date:   Sun Nov 22 22:53:36 2026 +0100
+
+    Add MIT License
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit 2932f87bc05592d5fad2d608089c1a7b09af050e
+Author: Valeria Márquez <valmarflo@iespoblenou.org>
+Date:   Sun Nov 22 22:43:58 2026 +0100
+
+    Add MIT License
+
+ LICENSE.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 4a4807aae44289569ccc5a9dbf412844315dfaae
+Author: Valeria Márquez <valmarflo@iespoblenou.org>
+Date:   Sun Nov 22 22:31:55 2026 +0100
+
+    Enhance README with formatting
+
+ README.md | 20 ++++++++++++++++++++
+ 1 file changed, 20 insertions(+)
+
+commit b0dbc80dcc4fad78a694e26323b7fe992e069993
+Author: Valeria Márquez <valmarflo@iespoblenou.org>
+Date:   Sun Nov 22 22:18:11 2026 +0100
+
+    Add feature list table to README
+
+ README.md | 12 +++++++++++-
+ 1 file changed, 11 insertions(+), 1 deletion(-)
+
+commit 993fc9f9da95264b77b0cddbb13b25b4c1f49eee
+Author: Valeria Márquez <valmarflo@iespoblenou.org>
+Date:   Sun Nov 22 22:01:05 2026 +0100
+
+    Add project logo to README
+
+ Images/logo.jpg | Bin 0 -> 42200 bytes
+ README.md       |   1 +
+ 2 files changed, 1 insertion(+)
+
+commit 8a5234273f99b8a4f612061cb7d2b04839c0452a
+Author: Valeria Márquez <valmarflo@iespoblenou.org>
+Date:   Sun Nov 22 21:49:10 2026 +0100
+
+    Add sections to README
+
+ README.md | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+commit f88aa53f2f958b18c12c6f6888b7942cb954f999
+Author: Valeria Márquez <valmarflo@iespoblenou.org>
+Date:   Sun Nov 22 21:39:16 2026 +0100
+
+    Add hyperlinks to README
+
+ README.md | 5 +++--
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+commit 85f2dd61dae7c785a8b00bcee106c989fd2f1a68
+Author: Valeria Márquez <valmarflo@iespoblenou.org>
+Date:   Sun Nov 22 21:22:40 2026 +0100
+
+    Add teble of Contents to README
+
+ README.md | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+commit 2cb1f250f3bec5fa6b81f359dc102b770d67ed4d
+Author: Valeria Márquez <valmarflo@iespoblenou.org>
+Date:   Fri Nov 20 13:37:01 2026 +0100
+
+     Add README with project introduction
+
+ .gitignore | 2 +-
+ README.md  | 3 +++
+ 2 files changed, 4 insertions(+), 1 deletion(-)
+
+commit 55220f432dee8aea4e44eb7f2c74285ec1dea3fe
+Author: Valeria Márquez <valmarflo@iespoblenou.org>
+Date:   Fri Nov 20 13:28:22 2026 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
