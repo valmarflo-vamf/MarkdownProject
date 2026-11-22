@@ -8,3 +8,9 @@ This project is a practice exercise to learn Markdown and Git. See the [Git Docu
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+
+## Introduction
+## Features
+## Installation
+## Usage
+## License
